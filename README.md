@@ -42,5 +42,5 @@ The goal is to create a small environment where I can **simulate attacks and pra
 ## 🫰 A Bit About Me
 
 * Dog owner
-* Into anime
+* Into anime & star wars
 * Metal is my religion
