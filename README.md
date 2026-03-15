@@ -44,3 +44,5 @@ The goal is to create a small environment where I can **simulate attacks and pra
 * Dog owner
 * Into anime & star wars
 * Metal is my religion
+
+* <img src="https://tryhackme-badges.s3.amazonaws.com/KBubble.png" alt="Your Image Badge" />
